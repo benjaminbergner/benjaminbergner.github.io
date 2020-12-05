@@ -9,3 +9,7 @@ Machine learning is a very broad field of research. One regularly deals with new
 **Variational Inference**  
 [A Beginner's Guide to Variational Methods: Mean-Field Approximation](https://blog.evjang.com/2016/08/variational-bayes.html)  
 [Variational inference](https://ermongroup.github.io/cs228-notes/inference/variational/)
+
+**Transformer**  
+[The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)  
+[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
