@@ -17,3 +17,4 @@ Machine learning is a very broad field of research. One regularly deals with new
 **Variational Inference**  
 [A Beginner's Guide to Variational Methods: Mean-Field Approximation](https://blog.evjang.com/2016/08/variational-bayes.html)  
 [Variational inference](https://ermongroup.github.io/cs228-notes/inference/variational/)
+[Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
