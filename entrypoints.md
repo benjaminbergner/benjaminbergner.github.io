@@ -4,7 +4,7 @@ title: ML Entry Points
 permalink: /entry/
 ---
 
-Machine learning is a very broad field of research. One regularly deals with new sub-topics, which are sometimes difficult to understand. On this page I collect links to resources that helped me to get started. The topics are sorted alphabetically and the links are sorted in ascending order of difficulty.
+Machine learning is a very broad field of research. One regularly deals with new topics, which are sometimes difficult to understand. On this page I collect links to resources that helped me to get started and are well explained. Topics are sorted alphabetically. If applicable, I sorted links in ascending order of difficulty.
 
 **Implicit Layers**
 [Deep Implicit Layers](http://implicit-layers-tutorial.org/introduction/)
