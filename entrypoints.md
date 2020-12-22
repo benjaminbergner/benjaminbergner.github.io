@@ -12,6 +12,9 @@ Machine learning is a very broad field of research. One regularly deals with new
 **Implicit Layers**  
 [Deep Implicit Layers](http://implicit-layers-tutorial.org/introduction/)
 
+**Multiple Instance Learning**  
+[Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365)
+
 **Spatial Transformer Networks**  
 [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)  
 [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/)
