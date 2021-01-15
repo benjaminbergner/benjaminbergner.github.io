@@ -9,6 +9,9 @@ Machine learning is a very broad field of research. One regularly deals with new
 **Batch Normalization**  
 [Batch Normalization Explained](https://leimao.github.io/blog/Batch-Normalization/)
 
+**Contrastive Learning**  
+[The Illustrated SimCLR Framework](https://amitness.com/2020/03/illustrated-simclr/)
+
 **Implicit Layers**  
 [Deep Implicit Layers](http://implicit-layers-tutorial.org/introduction/)
 
