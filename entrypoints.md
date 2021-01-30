@@ -18,6 +18,9 @@ Machine learning is a very broad field of research. One regularly deals with new
 **Multiple Instance Learning**  
 [Multiple Instance Learning: A Survey of Problem Characteristics and Applications](https://arxiv.org/pdf/1612.03365)
 
+**Neural Architecture Search**  
+[Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html#one-shot-approach-search--evaluation)
+
 **Spatial Transformer Networks**  
 [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)  
 [Deep Learning Paper Implementations: Spatial Transformer Networks - Part II](https://kevinzakka.github.io/2017/01/18/stn-part2/)
